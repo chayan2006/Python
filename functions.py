@@ -36,3 +36,10 @@ def add(a,b):# a and b is the parameters in this function
 # return the result 
 x = add (d,e)# call the add( )fuction   by passing d & e as a argument 
 print(x)
+
+def greeting(name):
+    print("Welcome, " + name)
+    
+greeting("Kay")
+greeting("Cameron")
+
