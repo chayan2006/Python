@@ -103,8 +103,6 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
 </p>
 
-> This is the official pre-built dark snake SVG that reliably loads without extra setup.  
-> If you want a personalized snake that mirrors *your actual contributions*, I can provide the GitHub Action + instructions to generate and commit a snake SVG to your repo.
 
 ---
 
