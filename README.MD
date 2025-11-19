@@ -95,9 +95,7 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
   <img src="https://raw.githubusercontent.com/Platane/snk/master/example/skill-dsa.gif" width="140" alt="dsa-skill" />
 </p>
 
-> Tip: Host your images/GIFs inside your repo (e.g., `/assets/`) and update these links to `https://raw.githubusercontent.com/chayan2006/<repo>/main/assets/...` so they always load.
 
----
 
 ## 🐍 Contribution Graph Snake (works instantly)
 <p align="center">
