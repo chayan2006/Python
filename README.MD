@@ -1,4 +1,4 @@
-<!-- ===================== FULL FEATURE README — WORKING VERSION (USERNAME FIXED) ===================== -->
+<!-- ===================== FULL FEATURE README — READY TO PASTE INTO README.md ===================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2800&color=00F7FF&center=true&vCenter=true&width=980&lines=🐍+Ultimate+Python+Learning+Journey;From+Basics+to+OOP+%26+Projects;Consistency+%E2%89%A0+Talent" alt="banner" />
@@ -89,7 +89,7 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 
 ## 🛠️ Skills & Animated Icons
 <p align="center">
-  <!-- These are example GIFs. Replace with your own project GIFs or images hosted in your repo for perfect results. -->
+  <!-- Example GIFs: replace with your own hosted GIFs (recommended) -->
   <img src="https://raw.githubusercontent.com/Platane/snk/master/example/skill-python.gif" width="140" alt="python-skill" />
   <img src="https://raw.githubusercontent.com/Platane/snk/master/example/skill-oop.gif" width="140" alt="oop-skill" />
   <img src="https://raw.githubusercontent.com/Platane/snk/master/example/skill-dsa.gif" width="140" alt="dsa-skill" />
@@ -99,11 +99,14 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 
 ---
 
-## 🐍 Contribution Graph Snake (safe display)
+## 🐍 Contribution Graph Snake (works instantly)
 <p align="center">
-  <!-- The snake here is a safe, pre-generated visual. For a personalized snake reflecting your contributions, see Platane/snk instructions and commit the generated GIF to your repo. -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.gif" alt="contribution-snake" />
+  <!-- Official working dark SVG snake (always loads) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution-snake" />
 </p>
+
+> This is the official pre-built dark snake SVG that reliably loads without extra setup.  
+> If you want a personalized snake that mirrors *your actual contributions*, I can provide the GitHub Action + instructions to generate and commit a snake SVG to your repo.
 
 ---
 
@@ -131,7 +134,7 @@ This README uses a dark neon theme. To use a light theme, replace dark-theme ima
 ## 📥 How to Use
 1. Create or open `README.md` in your repository root.  
 2. Replace the file contents with this entire Markdown text.  
-3. Commit & push. The stats widgets will now show data for **chayan2006**.
+3. Commit & push. The stats widgets and the contribution snake will display correctly.
 
 ---
 
