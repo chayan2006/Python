@@ -122,11 +122,6 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 
 ---
 
-## ✨ Theme Options
-This README uses a dark neon theme. To use a light theme, replace dark-theme images/GIFs with light variants (host them in your repo and update the URLs).
-
----
-
 
 ---
 
