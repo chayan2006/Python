@@ -131,10 +131,6 @@ This README uses a dark neon theme. To use a light theme, replace dark-theme ima
 
 ---
 
-## 📥 How to Use
-1. Create or open `README.md` in your repository root.  
-2. Replace the file contents with this entire Markdown text.  
-3. Commit & push. The stats widgets and the contribution snake will display correctly.
 
 ---
 
