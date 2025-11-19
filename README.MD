@@ -1,90 +1,63 @@
-<!-- ===================== FULL FEATURE README — COPY THIS INTO README.md ===================== -->
+<!-- ===================== FULL FEATURE README — WORKING VERSION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2800&color=00F7FF&center=true&vCenter=true&width=980&lines=🐍+Ultimate+Python+Learning+Journey;From+Basics+to+OOP+%26+Projects;Consistency+%E2%89%A0+Talent" alt="banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=36&duration=2800&color=00F7FF&center=true&vCenter=true&width=980&lines=🐍+Ultimate+Python+Learning+Journey;From+Basics+to+OOP+%26+Projects;Consistency+%E2%89%A0+Talent" />
 </p>
 
 ---
 
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Status-Learning-success" alt="status" />
-  <img src="https://img.shields.io/badge/Focus-OOP%20%26%20DSA-orange" alt="focus" />
-  <img src="https://img.shields.io/badge/Theme-Dark%20Neon-black" alt="theme" />
-  <img src="https://komarev.com/ghpvc/?username=its-me-shrey&color=blue" alt="views" />
-</p>
-
-<p align="center">
-  <!-- Social -->
-  <img src="https://img.shields.io/github/stars/its-me-shrey?style=social" alt="stars" />
-  <img src="https://img.shields.io/github/followers/its-me-shrey?style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Status-Learning-success" />
+  <img src="https://img.shields.io/badge/Focus-OOP%20%26%20Projects-orange" />
+  <img src="https://img.shields.io/badge/Theme-Dark%20Neon-black" />
 </p>
 
 ---
 
-# 🌙 Ultimate Python Learning Journey — All-in-One README
+# 🌙 Ultimate Python Learning Journey
 
-> Dark-mode • Neon accents • Project cards • Skill icons • Contribution snake • Collapsible sections • GitHub stats
-
-I keep this repo to learn, practice and build — from Python fundamentals to OOP, projects and beyond.
+This repo tracks my entire learning path — from Python basics to OOP and real-world projects.
 
 ---
 
 ## 🧭 Quick Overview
-- **Current focus:** Loops, OOP, small projects  
-- **Goal:** Move from beginner → intermediate → product-ready  
-- **Update cadence:** Daily practice & weekly project updates  
+- 🔄 Learning Loops & OOP  
+- 🧠 Daily practice  
+- 🚀 Building projects soon  
 
 ---
 
-## 🎯 What’s in this Repo
-- ✅ Basics (Variables, Data Types, Conditionals)  
-- ✅ Functions & Data Structures  
-- 🔄 Loops (in progress)  
-- 🧱 Object-Oriented Programming (in progress)  
-- 📁 File I/O & Exception Handling (coming)  
-- 🧪 Mini Projects & Experiments  
+# 📊 GitHub Stats (Safe Version — No Errors)
 
----
+> Replace **YOUR_GITHUB_USERNAME** below once you share your username.
 
-## 🔧 Tech / Tools / Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
-  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/Git-GitHub-black?logo=git" />
-  <img src="https://img.shields.io/badge/Packages-pip-lightgrey" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-shrey&theme=dark&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=its-me-shrey&show_icons=true&theme=dark" alt="github stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-me-shrey&layout=compact&theme=dark" alt="top langs" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" width="300" />
 </p>
 
 ---
 
 ## 🗂 Project Showcase
 <details>
-<summary><strong>Click to Expand Project Cards</strong></summary>
+<summary><strong>Projects</strong></summary>
 
-| Project | Description | Status | Demo |
-|--------|-------------|--------:|------|
-| **Calculator CLI** | Terminal calculator with advanced operations | ✅ Completed | [Run](#) |
-| **Todo App (File I/O)** | Task manager storing data in text files | 🔄 In Progress | [Run](#) |
-| **OOP Bank Simulation** | Class + inheritance-based banking app | 🚧 Planned | — |
+| Project | Description | Status |
+|--------|-------------|--------:|
+| Calculator CLI | Terminal calculator | ✅ |
+| Todo App | File-based task manager | 🔄 |
+| OOP Bank App | OOP simulation | 🛠️ |
 
 </details>
 
 ---
 
-## 🛠️ Skills & Animated Icons
+## 🛠️ Skills & Icons
 <p align="center">
   <img src="https://raw.githubusercontent.com/its-me-shrey/Python-Visuals/main/skill-python.gif" width="140" />
   <img src="https://raw.githubusercontent.com/its-me-shrey/Python-Visuals/main/skill-oop.gif" width="140" />
@@ -93,52 +66,30 @@ I keep this repo to learn, practice and build — from Python fundamentals to OO
 
 ---
 
-## 🐍 Contribution Graph Snake
+# 🐍 Contribution Snake (Safe Version — Always Loads)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snk.gif" alt="contribution-snake" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> Want the snake to match **your actual GitHub graph**?  
-I can generate a custom GIF for your account.
 
 ---
 
-## 📚 Learning Roadmap (Collapsible)
+## 📚 Roadmap
 <details>
-<summary><strong>Roadmap</strong></summary>
+<summary><strong>Click to Expand</strong></summary>
 
 1. Basics ✔  
-2. Loops & Iteration 🔄  
-3. OOP fundamentals 🔄  
-4. File I/O & Exception Handling  
+2. Loops 🔄  
+3. OOP 🔄  
+4. File I/O  
 5. DSA  
-6. Small Projects (CLI, File-based, Mini web)  
-7. APIs / ML (future)  
-
+6. Projects  
+7. ML / API  
 </details>
 
 ---
 
-## ✨ Theme Options
-This README uses a **dark neon theme**.  
-You can switch to light mode by replacing GIF/image links with light variants.
-
----
-
-## 📥 How to Use
-1. Create `README.md` in your GitHub repository  
-2. Paste this entire code  
-3. Commit → Push  
-4. Done! 🎉  
-
----
-
 ## ❤️ Support & Contributions
-If you like this repo:  
-⭐ **Star it** | 🔱 **Fork it** | 📝 **Suggest ideas**
+⭐ Star the repo  
+📝 Suggest ideas  
+🔥 Stay consistent  
 
----
-
-<p align="center">
-  <em>Made with 💙 by <strong>its-me-shrey</strong> — Keep learning, keep shipping.</em>
-</p>
