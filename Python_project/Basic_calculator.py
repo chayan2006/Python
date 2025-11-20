@@ -10,14 +10,14 @@ choice = input("Enter your choice (1/2/3/4):")
 num1 = float(input("Enter the frist num:"))
 num2 = float(input("Enter the seconde num:"))
 
-if choice is '1':
+if choice == '1':
     print("Result:",num1+num2)
 
-if choice is '2':
+if choice == '2':
     print("Result",num1-num2)
 
-if choice is '3':
+if choice == '3':
     print("Result",num1*num2)
 
-if choice is '4':
+if choice == '4':
     print("Result",num1/num2)
