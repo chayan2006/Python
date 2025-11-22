@@ -45,3 +45,36 @@ idx = 0
 while idx < len(nums):
     print(nums[idx])
     idx +=1
+
+
+    # Count-Controlled Loops 
+product = 1 
+for count in range (4):
+    product  = product* (count+1)
+print(product)
+"""
+how this upper code works:
+product = 1* (0+1)
+= 1*1 = 1
+now the product will be 1 
+and the ;loop will run again 
+product = 1 *(1+1)
+  = 1*2 = 2 
+  now the peoduct will be 2 an t he loop will run again 
+  product = 2 *(2+1)
+   2 *3
+   = 6 
+   product = 6*(3+1)
+    = 24 
+    and the loop will end becoused the cout +1 become 4 
+
+
+"""
+
+lower = int(input("Enter the lower bound: "))
+upper = int(input("Enter the upper bound: "))
+theSum  = 0 
+for number in range (lower, upper+1):
+    theSum = theSum+number
+
+print(theSum)
