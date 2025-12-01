@@ -1,0 +1,23 @@
+[2025-11-29T16:49:19.703979] [AUTH] [FAILURE] Failed attempt with input: wrong phrase
+[2025-11-29T16:49:30.763266] [AUTH] [SUCCESS] User authenticated as Chayan Khatua
+[2025-11-29T16:49:33.311502] [COMMAND] [RECEIVED] who are you
+[2025-11-29T16:49:33.312386] [COMMAND] [EXECUTED] I am MIO PRIME v1.2, owner-bound to Chayan Khatua.
+[2025-11-29T16:49:35.740855] [COMMAND] [RECEIVED] halt
+[2025-11-29T16:49:35.741770] [SYSTEM] [HALT] User requested halt
+[2025-11-29T16:51:49.366987] [AUTH] [SUCCESS] User authenticated as Chayan Khatua
+[2025-11-29T16:56:37.978168] [AUTH] [SUCCESS] User authenticated as Chayan Khatua
+[2025-11-29T16:56:40.179172] [COMMAND] [RECEIVED] What is the capital of Mars?
+[2025-11-29T16:56:40.182136] [SKILL] [MISSING] What is the capital of Mars?
+[2025-11-29T16:56:40.183385] [COMMAND] [EXECUTED] I heard you, but I don't have a specific skill for that yet.
+[2025-11-29T16:56:42.411363] [COMMAND] [RECEIVED] halt
+[2025-11-29T16:56:42.415869] [SYSTEM] [HALT] User requested halt
+[2025-11-29T16:57:18.905637] [AUTH] [SUCCESS] User authenticated as Chayan Khatua
+[2025-11-29T16:57:21.867852] [COMMAND] [RECEIVED] What is the capital of Mars?
+[2025-11-29T16:57:21.871535] [COMMAND] [EXECUTED] Olympus Mons
+[2025-11-29T16:57:25.107935] [COMMAND] [RECEIVED] halt
+[2025-11-29T16:57:25.108842] [SYSTEM] [HALT] User requested halt
+[2025-11-29T17:01:53.846123] [AUTH] [SUCCESS] User authenticated as Chayan Khatua
+[2025-11-29T17:01:56.165667] [COMMAND] [RECEIVED] Who won the Super Bowl in 2024?
+[2025-11-29T17:01:56.166725] [COMMAND] [EXECUTED] I need a GEMINI_API_KEY in config.py to answer complex questions.
+[2025-11-29T17:02:02.730558] [COMMAND] [RECEIVED] halt
+[2025-11-29T17:02:02.731284] [SYSTEM] [HALT] User requested halt

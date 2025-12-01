@@ -1,0 +1,53 @@
+[2025-11-29T17:24:35.417457] [AUTH] [ENROLLMENT] New Key Set
+[2025-11-29T17:25:15.437104] [COMMAND] [RECEIVED] hello mio 
+[2025-11-29T17:25:15.438104] [COMMAND] [EXECUTED] I need a GEMINI_API_KEY in config.py to answer complex questions.
+[2025-11-29T17:25:40.203906] [COMMAND] [RECEIVED] ok if i provide u hear u can update your self 
+[2025-11-29T17:25:40.204817] [COMMAND] [EXECUTED] I need a GEMINI_API_KEY in config.py to answer complex questions.
+[2025-11-29T17:33:13.303453] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:33:13.633529] [COMMAND] [EXECUTED] Brain Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[2025-11-29T17:33:24.805051] [COMMAND] [RECEIVED] why 
+[2025-11-29T17:33:24.900860] [COMMAND] [EXECUTED] Brain Error: Error code: 400 - {'error': {'message': 'The model `llama3-8b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[2025-11-29T17:35:49.759764] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:35:50.500077] [COMMAND] [EXECUTED] Brain Error: Error code: 400 - {'error': {'message': 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+[2025-11-29T17:37:49.365149] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:37:49.774861] [COMMAND] [EXECUTED] Hello. How can I assist you today?
+[2025-11-29T17:38:07.506521] [COMMAND] [RECEIVED] open linkdin
+[2025-11-29T17:38:07.515573] [COMMAND] [EXECUTED] Opening linkdin...
+[2025-11-29T17:38:36.401188] [COMMAND] [RECEIVED] open it
+[2025-11-29T17:38:36.417695] [COMMAND] [EXECUTED] Opening it...
+[2025-11-29T17:39:02.753665] [COMMAND] [RECEIVED] what is my name
+[2025-11-29T17:39:03.003494] [COMMAND] [EXECUTED] I'm happy to chat with you, but I don't have any information about your name. You haven't shared it with me yet.
+[2025-11-29T17:39:28.123465] [COMMAND] [RECEIVED] you are saying that u are opeinng the linkdin but it still not open 
+[2025-11-29T17:39:28.134301] [COMMAND] [EXECUTED] Opening you are saying that u are opeinng the linkdin but it still not...
+[2025-11-29T17:39:40.351643] [COMMAND] [RECEIVED] open it 
+[2025-11-29T17:39:40.355536] [COMMAND] [EXECUTED] Opening it...
+[2025-11-29T17:39:57.895593] [COMMAND] [RECEIVED] how mush time u need go to the bowser and open it 
+[2025-11-29T17:39:57.906404] [COMMAND] [EXECUTED] Opening how mush time u need go to the bowser and  it...
+[2025-11-29T17:41:22.382720] [COMMAND] [RECEIVED] open linkdin 
+[2025-11-29T17:41:22.392523] [COMMAND] [EXECUTED] Opening linkdin...
+[2025-11-29T17:41:54.506241] [COMMAND] [RECEIVED] open linkdin 
+[2025-11-29T17:41:54.509743] [COMMAND] [EXECUTED] Opening linkdin...
+[2025-11-29T17:42:54.613762] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:42:55.061917] [COMMAND] [EXECUTED] Hello. I'm MIO PRIME v1.2. How may I assist you today?
+[2025-11-29T17:43:04.461778] [COMMAND] [RECEIVED] open linkdin 
+[2025-11-29T17:43:04.476832] [COMMAND] [EXECUTED] Opening linkdin...
+[2025-11-29T17:45:11.272761] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:45:11.682397] [COMMAND] [EXECUTED] Nice to meet you. How can I assist you today?
+[2025-11-29T17:45:23.098975] [COMMAND] [RECEIVED] open linkdin
+[2025-11-29T17:45:23.201623] [COMMAND] [EXECUTED] Opening linkdin...
+[2025-11-29T17:46:10.608147] [COMMAND] [RECEIVED] open chorme and open you tube on it 
+[2025-11-29T17:46:10.621287] [COMMAND] [EXECUTED] Opening chorme and  you tube on it...
+[2025-11-29T17:48:31.171480] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:48:31.609673] [COMMAND] [EXECUTED] Hi there! How's your day going so far? Need any help or just looking for some chat? I'm all ears (or rather, all text). What's on your mind?
+[2025-11-29T17:48:56.180656] [COMMAND] [RECEIVED] open youtube and serch baby song and play it 
+[2025-11-29T17:48:56.198986] [COMMAND] [EXECUTED] Opening youtube and serch baby song and play it...
+[2025-11-29T17:49:25.311500] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:49:25.769681] [COMMAND] [EXECUTED] Hello! It's nice to meet you. Is there something I can help you with, or would you like to chat?
+[2025-11-29T17:49:48.463957] [COMMAND] [RECEIVED] open you tube and serch baby song and play it 
+[2025-11-29T17:49:48.478670] [COMMAND] [EXECUTED] Opening you tube and serch baby song and play it...
+[2025-11-29T17:51:07.605868] [COMMAND] [RECEIVED] hi
+[2025-11-29T17:51:08.074243] [COMMAND] [EXECUTED] Hello there! It's great to meet you. Is there something on your mind that you'd like to chat about or would you like me to suggest some fun topics to get us started?
+[2025-11-29T17:51:19.829766] [COMMAND] [RECEIVED] open you tube and play baby song 
+[2025-11-29T17:51:19.844494] [COMMAND] [EXECUTED] Opening you tube and play baby song...
+[2025-11-29T17:53:39.607236] [COMMAND] [RECEIVED] open you tube 
+[2025-11-29T17:53:39.656232] [COMMAND] [EXECUTED] Opening you tube...
