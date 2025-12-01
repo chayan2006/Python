@@ -29,6 +29,4 @@ f.close()
 
 f = open(file2_path, "r")
 print(f.read())
-
-
 print(f.tell())
