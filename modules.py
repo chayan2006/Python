@@ -4,8 +4,8 @@ import os
 script_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Create file paths relative to the script
-file1_path = os.path.join(script_dir, "file.txt")
-file2_path = os.path.join(script_dir, "file.txt2")
+file1_path = "file.txt"
+file2_path = "file.txt2"
 
 f = open(file1_path, "w")
 f.write("mio")
@@ -31,3 +31,4 @@ f.close()
 f = open(file2_path, "r")
 print(f.read())
 print(f.tell())
+f = open(file2_path, "x")
