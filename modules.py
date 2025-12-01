@@ -29,5 +29,6 @@ f.close()
 
 f = open(file2_path, "r")
 print(f.read())
-f.close()
 
+
+print(f.tell())
