@@ -13,6 +13,7 @@ f.close() # Good practice to close before re-opening
 
 f = open(file1_path, "r")
 print(f.read())
+print(f.tell())
 f.close()
 
 f = open(file2_path, "w")
