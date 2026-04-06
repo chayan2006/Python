@@ -39,10 +39,30 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 
 ## 🎯 What’s in this Repo
 - ✅ Basics (Variables, Data Types, Conditionals)  
-- ✅ Functions & Data Structures  
-- 🔄 Loops (in progress)  
-- 🧱 Object-Oriented Programming (in progress)  
-- 📁 File I/O & Exception Handling (coming)  
+- ✅ Functions & Advanced Functionality (*args, **kwargs, Lambdas)
+- ✅ Data Structures (Lists, Dicts, Tuples, Sets)
+- ✅ Loops & Advanced Control (Break, Continue, Zip, Enumerate)
+- ✅ Object-Oriented Programming (4 Pillars, Static/Class Methods)
+- ✅ File I/O & Exception Handling (with context managers)
+- ✅ Advanced Python (Generators, Decorators, Iterators)
+- ✅ Modules & Packages (Standard Lib, JSON, RE)
+- ✅ Concurrency (Multithreading, Multiprocessing, AsyncIO)
+- ✅ Databases (SQLite3 CRUD operations)
+- ✅ Web & APIs (Requests, JSON, HTTP codes)
+- ✅ Logging & Error Tracking (Best practices)
+- ✅ Ecosystem (Virtual Environments, Pip, PEP 8)
+- ✅ Networking (TCP/UDP, Sockets, Client/Server)
+- ✅ Custom Context Managers (__enter__, __exit__)
+- ✅ Security & Cryptography (Hashing, Salts, Secrets)
+- ✅ Shell Operations (Copy, Move, Archive via Shutil)
+- ✅ Metaprogramming (Introspection, Descriptors)
+- ✅ Metaclasses ( Singleton, Class Creation)
+- ✅ Code Analysis (AST, Node Visitors)
+- ✅ Binary & C-Interop (Ctypes, Shared Libs)
+- ✅ Text Internals (Unicode, UTF-8, Encodings)
+- ✅ Optimization & Profiling (timeit, cProfile)
+- ✅ Serialization (Pickle, Shelve, Persistent storage)
+- ✅ Data Structures (Deque, Heapq, Bisect)
 - 🧪 Mini Projects & Experiments  
 
 ---
@@ -80,8 +100,8 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 | Project | Description | Status |
 |--------:|-------------|------:|
 | **Calculator CLI** | Terminal calculator supporting basic & advanced ops | ✅ Completed |
-| **Todo App (File I/O)** | Simple TODO app using text files for persistence | 🔄 In Progress |
-| **OOP Bank Simulation** | Banking simulation using classes & inheritance | 🚧 Planned |
+| **Todo App (File I/O)** | Simple TODO app using text files for persistence | ✅ Completed |
+| **OOP Bank Simulation** | Banking simulation using classes & inheritance | ✅ Completed |
 
 </details>
 
@@ -111,12 +131,20 @@ This repo tracks my entire learning path — from Python basics to OOP and real-
 <summary><strong>Roadmap</strong></summary>
 
 1. Basics ✔  
-2. Loops & Iteration 🔄  
-3. OOP fundamentals 🔄  
-4. File I/O & Exception Handling  
-5. Data Structures & Algorithms (DSA)  
-6. Small Projects (CLI, File-based, Mini web)  
-7. APIs / Machine Learning (future)  
+2. Functions & Data Structures ✔
+3. Loops & Advanced Control ✔  
+4. OOP Fundamentals (All 4 Pillars) ✔  
+5. File I/O & Exception Handling ✔
+6. Advanced Python (Generators, Decorators) ✔
+7. Modules & Packages ✔
+8. Concurrency, Databases & Web APIs ✔
+9. Logging & Professional Debugging ✔ 
+10. Ecosystem & Best Practices ✔
+11. Professional Tooling (Networking, Security, Shutil) ✔
+12. Performance & Optimization (Profiling, Sockets) ✔
+13. Code Analysis & C-Interop (AST, Ctypes) ✔
+14. Deep Internals (Metaclasses, Unicode) ✔
+15. Final Mastery & Portfolio 🏆
 
 </details>
 
