@@ -77,4 +77,48 @@ theSum  = 0
 for number in range (lower, upper+1):
     theSum = theSum+number
 
+# Updated Loop Concepts
 print(theSum)
+
+# --- ADVANCED LOOP CONTROL ---
+
+# 1. Break: Exit the loop instantly
+# Find the first number divisible by 7 in range (10, 50)
+for num in range(10, 51):
+    if num % 7 == 0:
+        print(f"First number divisible by 7: {num}")
+        break # Skips all remaining numbers
+
+# 2. Continue: Skip the current iteration but stay in the loop
+# Print all odd numbers from 1 to 10
+for i in range(1, 11):
+    if i % 2 == 0:
+        continue # Skips even numbers
+    print(i) # Prints only odd numbers
+
+# 3. Pass: A placeholder for empty code (to avoid errors)
+def future_function():
+    pass # No error even if function does nothing yet
+
+# 4. Enumerate: Get index and value simultaneously
+fruits = ["apple", "banana", "cherry"]
+for index, value in enumerate(fruits):
+    print(f"Index {index}: {value}")
+
+# 5. Zip: Loop through two lists at once
+names = ["Alice", "Bob", "Charlie"]
+scores = [85, 92, 78]
+for name, score in zip(names, scores):
+    print(f"{name} scored {score}")
+
+# 6. For-Else: Code that runs ONLY if the loop DID NOT break
+# Example: Check if a number is prime
+check_num = 11
+for i in range(2, check_num):
+    if check_num % i == 0:
+        print(f"{check_num} is not prime.")
+        break
+else:
+    # This only runs if we didn't hit 'break'
+    print(f"{check_num} is a prime number!")
+
