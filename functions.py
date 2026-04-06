@@ -153,5 +153,51 @@ def translate_error_code(error_code):
 # is print(name_of_function(parameter))
 print(translate_error_code("404 Not Found"))
 
+# --- ADVANCED FUNCTION CONCEPTS ---
+
+# 1. Default Parameters (Used when no value is provided)
+def greet_user(name="Guest"):
+    print("Welcome, " + name)
+
+greet_user() # prints Welcome, Guest
+greet_user("Chayan") # prints Welcome, Chayan
+
+# 2. *args (Pass multiple arguments as a tuple)
+def calculate_sum(*numbers):
+    total = 0
+    for n in numbers:
+        total += n
+    return total
+
+print(calculate_sum(1, 2, 3, 4, 10)) # Any number of arguments works
+
+# 3. **kwargs (Pass multiple keyword arguments as a dictionary)
+def print_user_details(**details):
+    for key, value in details.items():
+        print(f"{key}: {value}")
+
+print_user_details(name="Chayan", role="AI Agent", status="Active")
+
+# 4. Lambda Functions (Short, one-line functions)
+# Syntax: lambda parameters : expression
+multiply = lambda x, y : x * y
+print(multiply(5, 5)) # returns 25
+
+# Combining with sorted()
+points = [(1, 2), (4, 1), (5, -1), (2, 3)]
+points_sorted = sorted(points, key=lambda x: x[1]) # sort by the second value
+print(points_sorted)
+
+# 5. Local vs Global Scope
+msg = "I am Global" # Accessible everywhere
+
+def show_scope():
+    msg = "I am Local" # Exists only inside the function
+    print(msg)
+
+show_scope() # Prints Local
+print(msg) # Prints Global
+
+
 # Expected output:
 # Requested web page not found on server
